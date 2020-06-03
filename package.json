@@ -1,0 +1,22 @@
+{
+  "name": "suspense-data-fetching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "parcel-bundler": "1.12.4",
+    "parcel": "1.12.4",
+    "react": "0.0.0-experimental-f42431abe",
+    "react-top-loading-bar": "1.2.0",
+    "react-dom": "0.0.0-experimental-f42431abe"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "parcel public/index.html -p 4000"
+  },
+  "author": "",
+  "license": "ISC"
+}
